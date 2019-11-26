@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/nielsch87-java/java-pipeline/_apis/build/status/nielsch87.pipelines-java?branchName=master)(https://dev.azure.com/nielsch87-java/java-pipeline/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/nielsch87-java/java-pipeline/_apis/build/status/nielsch87.pipelines-java?branchName=master)](https://dev.azure.com/nielsch87-java/java-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
